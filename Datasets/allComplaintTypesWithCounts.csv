@@ -1,0 +1,418 @@
+,Complaint Type,count
+44,AGENCY,9
+45,AHV Inspection Unit,303
+46,APPLIANCE,147831
+47,ATF,248
+48,Abandoned Bike,1399
+49,Abandoned Vehicle,140349
+50,Adopt-A-Basket,575
+51,Advocate - Levy,2
+52,Advocate - Lien,13
+53,Advocate - Other,281
+54,Advocate - RPIE,10
+55,Advocate-Business Tax,8
+56,Advocate-Co-opCondo Abatement,84
+57,Advocate-Commercial Exemptions,19
+58,Advocate-Foreclosure,1
+59,Advocate-Personal Exemptions,752
+60,Advocate-Prop Class Incorrect,9
+61,Advocate-Prop Refunds/Credits,485
+62,Advocate-Property Value,41
+63,Advocate-SCRIE/DRIE,18
+64,Advocate-UBT,5
+65,Air Quality,95432
+66,Alzheimer's Care,2611
+67,Animal Abuse,52178
+68,Animal Facility - No Permit,852
+69,Animal in a Park,27156
+70,Animal-Abuse,21672
+71,Appliance,4
+72,Asbestos,23338
+73,Asbestos/Garbage Nuisance,1
+74,BEST/Site Safety,20307
+75,Beach/Pool/Sauna Complaint,2228
+76,Benefit Card Replacement,113957
+77,Bereavement Support Group,282
+78,Bike Rack Condition,1640
+79,Bike/Roller/Skate Chronic,7539
+80,Blocked Driveway,1274679
+81,Boilers,25602
+82,Borough Office,7968
+83,Bottled Water,180
+84,Bridge Condition,6067
+85,Broken Muni Meter,172119
+86,Broken Parking Meter,67234
+87,Building Condition,41
+88,Building Drinking Water Tank,20
+89,Building Marshals office,7096
+90,Building/Use,312016
+91,Bus Stop Shelter Complaint,15895
+92,Bus Stop Shelter Placement,2775
+93,CONSTRUCTION,5078
+94,COVID-19 Non-essential Construction,7340
+95,Calorie Labeling,167
+96,Case Management Agency Complaint,254
+97,Change Collection Schedule,1
+98,City Vehicle Placard Complaint,2393
+99,Collection Truck Noise,1709
+100,Comments,194
+101,Commercial Disposal Complaint,767
+102,Construction,28311
+103,Construction Lead Dust,1921
+104,Construction Safety Enforcement,31220
+105,Consumer Complaint,236748
+106,Cooling Tower,164
+107,Cranes and Derricks,3363
+108,Curb Condition,58732
+109,DCA / DOH New License Application Request,26243
+110,DEP Bridge Condition,1
+111,DEP Highway Condition,12
+112,DEP Sidewalk Condition,9
+113,DEP Street Condition,447
+114,DHS Advantage - Tenant,40930
+115,DHS Advantage - Third Party,1242
+116,DHS Advantage -Landlord/Broker,30695
+117,DHS Income Savings Requirement,154
+118,DOF Literature Request,1
+119,DOF Parking - Address Update,489
+120,DOF Parking - DMV Clearance,1991
+121,DOF Parking - Payment Issue,72499
+122,DOF Parking - Request Copy,9481
+123,DOF Parking - Request Status,10330
+124,DOF Parking - Tax Exemption,6953
+125,DOF Property - City Rebate,1200
+126,DOF Property - Owner Issue,63830
+127,DOF Property - Payment Issue,53716
+128,DOF Property - Property Value,2010
+129,DOF Property - RPIE Issue,3517
+130,DOF Property - Reduction Issue,108501
+131,DOF Property - Request Copy,61184
+132,DOF Property - State Rebate,5
+133,DOF Property - Update Account,21605
+134,DOOR/WINDOW,273095
+135,DOR Literature Request,67
+136,DPR Internal,9294
+137,DRIE,4023
+138,DSNY Internal,3
+139,DSNY Spillage,7
+140,Damaged Tree,401730
+141,Day Care,6015
+142,Dead Animal,7818
+143,Dead Tree,57498
+144,Dead/Dying Tree,66076
+145,Dept of Investigations,77
+146,Derelict Bicycle,16023
+147,Derelict Vehicle,207814
+148,Derelict Vehicles,306473
+149,Dirty Condition,35959
+150,Dirty Conditions,404734
+151,Discipline and Suspension,385
+152,Disorderly Youth,5002
+153,Dispatched Taxi Complaint,32
+154,Dispatched Taxi Compliment,3
+155,Drinking,21990
+156,Drinking Water,1748
+157,Drug Activity,20400
+158,Dumpster Complaint,1396
+159,E-Scooter,270
+160,ELECTRIC,352084
+161,ELEVATOR,10215
+162,Elder Abuse,6033
+163,Electric,1
+164,Electrical,40498
+165,Electronics Waste,26478
+166,Electronics Waste Appointment,32632
+167,Elevator,140844
+168,Emergency Response Team (ERT),49080
+169,Employee Behavior,7
+170,Encampment,48698
+171,Eviction,525
+172,Executive Inspections,1268
+173,FATF,517
+174,FCST,183
+175,FHV Licensee Complaint,53
+176,FLOORING/STAIRS,175896
+177,Facade Insp Safety Pgm,1
+178,Facades,2162
+179,Face Covering Violation,1802
+180,Ferry Complaint,3167
+181,Ferry Inquiry,5831
+182,Ferry Permit,433
+183,Fire Alarm - Modification,4
+184,Fire Alarm - New System,9
+185,Fire Alarm - Reinspection,16
+186,Fire Alarm - Replacement,1
+187,Foam Ban Enforcement,48
+188,Food Establishment,108090
+189,Food Poisoning,35288
+190,For Hire Vehicle Complaint,85175
+191,For Hire Vehicle Report,3320
+192,Forensic Engineering,1167
+193,Forms,1261
+194,Found Property,3836
+195,GENERAL,200327
+196,GENERAL CONSTRUCTION,500821
+197,Gas Station Discharge Lines,2
+198,General,1163
+199,General Construction/Plumbing,584082
+200,General Question,5
+201,Graffiti,196711
+202,Green Taxi Complaint,584
+203,Green Taxi Report,52
+204,HEAP Assistance,1687
+205,HEAT/HOT WATER,1736101
+206,HEATING,887869
+207,HPD Literature Request,52831
+208,Harboring Bees/Wasps,2434
+209,Hazardous Material,4
+210,Hazardous Materials,32041
+211,Hazmat Storage/Use,2
+212,Health,164
+213,Highway Condition,51510
+214,Highway Sign - Damaged,1301
+215,Highway Sign - Dangling,360
+216,Highway Sign - Missing,657
+217,Home Care Provider Complaint,257
+218,Home Delivered Meal - Missed Delivery,3802
+219,Home Delivered Meal Complaint,897
+220,Home Repair,3408
+221,Homebound Evacuation 4,2
+222,Homeless Encampment,38208
+223,Homeless Person Assistance,198381
+224,Homeless Street Condition,15583
+225,Housing - Low Income Senior,51517
+226,Housing Options,18080
+227,Illegal Animal - Sold/Kept,1
+228,Illegal Animal Kept as Pet,3733
+229,Illegal Animal Sold,651
+230,Illegal Dumping,20934
+231,Illegal Fireworks,82030
+232,Illegal Parking,1647193
+233,Illegal Posting,1918
+234,Illegal Tree Damage,34208
+235,Incorrect Data,129
+236,Indoor Air Quality,57974
+237,Indoor Sewage,12079
+238,Industrial Waste,16045
+239,Injured Wildlife,1
+240,Institution Disposal Complaint,74
+241,Interior Demo,21
+242,Internal Code,14
+243,Investigations and Discipline (IAD),10925
+244,LEAD,1
+245,Lead,78917
+246,Legal Services Provider Complaint,176
+247,Lifeguard,218
+248,LinkNYC,1057
+249,Litter Basket / Request,26491
+250,Litter Basket Complaint,1370
+251,Litter Basket Request,2369
+252,Lost Property,19884
+253,Lot Condition,813
+254,MOLD,1
+255,MSOTHER,1
+256,Maintenance or Facility,160275
+257,Mass Gathering Complaint,3657
+258,Meals Home Delivery Required,1
+259,Misc. Comments  BCC:a5glxzf...,1
+260,Misc. Comments%}dt2pq'/&quo...,1
+261,Misc. Comments&amp;echo xjd...,1
+262,Misc. Comments&amp;nslookup...,1
+263,Misc. Comments&amp;ping -n ...,1
+264,Misc. Comments&gt;  BCC:bl0...,1
+265,Misc. Comments&quot;,1
+266,Misc. Comments&quot;|echo 2...,1
+267,Misc. Comments&quot;|ping -...,1
+268,Misc. Comments',1
+269,Misc. Comments' and '1618'=...,1
+270,Misc. Comments' and '7835'=...,1
+271,Misc. Comments' and (select...,1
+272,Misc. Comments' and 6049=60...,1
+273,Misc. Comments' and 7702=77...,1
+274,Misc. Comments' waitfor del...,1
+275,Misc. Comments'&quot;`0&amp...,1
+276,Misc. Comments'(select*from...,1
+277,Misc. Comments');declare @q...,1
+278,Misc. Comments')waitfor del...,1
+279,Misc. Comments'+(function()...,1
+280,Misc. Comments'+(select loa...,1
+281,Misc. Comments'+(select*fro...,1
+282,Misc. Comments'+eval(compil...,1
+283,Misc. Comments'+sleep(20.to...,1
+284,"Misc. Comments',0)waitfor d...",1
+285,Misc. Comments'.sleep(20).',1
+286,Misc. Comments';declare @q ...,1
+287,Misc. Comments'|echo y9v6fc...,1
+288,Misc. Comments'|ping -c 21 ...,1
+289,Misc. Comments'||(select ex...,1
+290,Misc. Comments);declare @q ...,1
+291,"Misc. Comments,(select*from...",1
+292,Misc. Comments../../../../....,3
+293,Misc. Comments..\..\..\..\....,2
+294,Misc. Comments47876391' or ...,1
+295,Misc. Comments52038737' or ...,1
+296,Misc. Comments69075347' or ...,1
+297,Misc. Comments88909845' or ...,1
+298,Misc. Comments;declare @q v...,1
+299,Misc. Comments]]&gt;&gt;&lt;,1
+300,Misc. Commentseowljujfh8,1
+301,Misc. Commentso0w3r%&gt;xb6...,1
+302,Misc. Comments{${sleep(20)}},1
+303,Misc. Comments|echo 3p7wexz...,1
+304,Misc. Comments|nslookup -q=...,1
+305,Misc. Comments|ping -c 21 1...,1
+306,Misc. Comments|ping -n 21 1...,1
+307,Misc. Comments}}t2v95'/&quo...,1
+308,Miscellaneous Categories,15615
+309,Missed Collection,61114
+310,Missed Collection (All Materials),338542
+311,Mobile Food Vendor,9837
+312,Mold,3993
+313,Mosquitoes,3892
+314,Municipal Parking Facility,847
+315,NONCONST,260890
+316,NORC Complaint,20
+317,New Tree Request,194700
+318,No Child Left Behind,23
+319,Noise,589237
+320,Noise - Commercial,480910
+321,Noise - Helicopter,61186
+322,Noise - House of Worship,13393
+323,Noise - Park,56544
+324,Noise - Residential,2784668
+325,Noise - Street/Sidewalk,947289
+326,Noise - Vehicle,422734
+327,Noise Survey,16303
+328,Non-Emergency Police Matter,180861
+329,Non-Residential Heat,14104
+330,NonCompliance with Phased Reopening,66333
+331,OEM Disabled Vehicle,1916
+332,OEM Literature Request,8746
+333,OUTSIDE BUILDING,8751
+334,Obstruction,7829
+335,Oil or Gas Spill,2
+336,Open Flame Permit,1
+337,Other Enforcement,60430
+338,Outdoor Dining,10809
+339,Outside Building,6
+340,Overflowing Litter Baskets,11555
+341,Overflowing Recycling Baskets,165
+342,Overgrown Tree/Branches,188960
+343,PAINT - PLASTER,361228
+344,PAINT/PLASTER,433072
+345,PLUMBING,809237
+346,Panhandling,13237
+347,Parent Leadership,64
+348,Parking Card,383
+349,Peeling Paint,126
+350,Pet Shop,802
+351,Plant,2696
+352,Plumbing,57528
+353,Poison Ivy,1730
+354,Portable Toilet,13
+355,Posting Advertisement,3298
+356,Private School Vaccine Mandate Non-Compliance,218
+357,Private or Charter School Reopening,2105
+358,Public Assembly,11
+359,Public Assembly - Temporary,1
+360,Public Payphone Complaint,6483
+361,Public Toilet,529
+362,Quality of Life,1494
+363,Question,2162
+364,Radioactive Material,120
+365,Rangehood,9
+366,Real Time Enforcement,6737
+367,Recycling Basket Complaint,45
+368,Recycling Enforcement,8959
+369,Registration and Transfers,190
+370,Request Large Bulky Item Collection,326335
+371,Request Xmas Tree Collection,1986
+372,Research Questions,89
+373,Residential Disposal Complaint,6467
+374,Retailer Complaint,14
+375,Rodent,361524
+376,Root/Sewer/Sidewalk Condition,113179
+377,SAFETY,68167
+378,SCRIE,87627
+379,SG-99,1
+380,SNW,4
+381,SRDE,21
+382,SRGOVG,1
+383,STRUCTURAL,16
+384,Safety,1009
+385,Sanitation Condition,306280
+386,Sanitation Worker or Vehicle Complaint,2239
+387,Scaffold Safety,2863
+388,School Maintenance,20707
+389,Seasonal Collection,330
+390,Select Message Type...,5
+391,Senior Center Complaint,3113
+392,Sewer,431951
+393,Sidewalk Condition,314492
+394,Single Occupancy Bathroom,40
+395,Smoking,28413
+396,Snow,88068
+397,Snow Removal,2806
+398,Snow or Ice,5427
+399,Special Enforcement,17
+400,Special Natural Area District (SNAD),903
+401,Special Operations,272
+402,Special Projects Inspection Team (SPIT),45928
+403,Sprinkler - Mechanical,3
+404,Squeegee,214
+405,Stalled Sites,758
+406,Standing Water,25027
+407,Standpipe - Mechanical,6
+408,Storm,3005
+409,Street Condition,1142306
+410,Street Light Condition,1067838
+411,Street Sign - Damaged,86644
+412,Street Sign - Dangling,33572
+413,Street Sign - Missing,61678
+414,Street Sweeping Complaint,4931
+415,Summer Camp,324
+416,Sustainability Enforcement,6414
+417,Sweeping/Inadequate,1931
+418,Sweeping/Missed,6094
+419,Sweeping/Missed-Inadequate,5853
+420,Tanning,51
+421,Tattooing,1328
+422,Taxi Complaint,180835
+423,Taxi Compliment,5890
+424,Taxi Licensee Complaint,29
+425,Taxi Report,13606
+426,Taxpayer Advocate Inquiry,351
+427,Teaching/Learning/Instruction,420
+428,Traffic,53667
+429,Traffic Signal Condition,523188
+430,Traffic/Illegal Parking,14047
+431,Trans Fat,32
+432,Transfer Station Complaint,13
+433,Transportation Provider Complaint,183
+434,Trapping Pigeon,2
+435,Tunnel Condition,120
+436,UNSANITARY CONDITION,617751
+437,Unleashed Dog,10215
+438,Unlicensed Dog,76
+439,Unsanitary Animal Facility,1018
+440,Unsanitary Animal Pvt Property,26626
+441,Unsanitary Condition,5500
+442,Unsanitary Pigeon Condition,8465
+443,Uprooted Stump,1003
+444,Urinating in Public,7382
+445,Utility Program,1301
+446,VACANT APARTMENT,8
+447,Vacant Lot,20503
+448,Vaccine Mandate Non-Compliance,7396
+449,Vending,46600
+450,Violation of Park Rules,33190
+451,WATER LEAK,260067
+452,Water Conservation,47035
+453,Water Leak,1
+454,Water Maintenance,26
+455,Water Quality,18252
+456,Water System,767512
+457,Weatherization,1157
+458,Window Guard,2788
+459,Wood Pile Remaining,846
+460,X-Ray Machine/Equipment,212
